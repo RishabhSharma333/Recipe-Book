@@ -1,6 +1,6 @@
-# NgCompleteGuideUpdate
+# RecipeBookGuideUpdate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.This is my project with Angular,it is a Recipe book and shoppping list single page web-app.
 
 ## Development server
 
